@@ -1,0 +1,36 @@
+# Maven
+/target/
+
+# NetBeans
+/nbproject/private/
+*.log
+
+# Archivos temporales del IDE
+*.class
+*.tmp
+*.bak
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración local / secretos
+.env
+*.env
+config.properties
+application-local.properties
+
+# Credenciales o archivos locales
+*.key
+*.pem
+
+# Archivos generados
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
